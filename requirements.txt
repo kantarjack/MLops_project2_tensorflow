@@ -4,3 +4,8 @@ dvc
 tensorflow
 matplotlib
 tqdm
+yaml
+logging
+
+# local setup installation -
+-e .
